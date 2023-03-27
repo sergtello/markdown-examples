@@ -5,8 +5,8 @@ This is an example of links and images in Markdown.
 
 ## Links
 
-[Link Text](https://www.example.com)
+[Link Text](https://github.com/sergtello)
 
 ## Images
 
-![Alt Text](https://www.example.com/image.jpg)
+![Alt Text](https://github.com/sergtello/markdown-examples/blob/master/outcode.jpeg)

@@ -19,8 +19,6 @@ To view the Markdown examples in this project, simply open the `.md` files in a 
 
 ### Resources
 
-If you want to learn more about Markdown, here are some helpful resources:
-
 - [Markdown Guide](https://www.markdownguide.org/): a comprehensive guide to Markdown syntax and usage.
 - [GitHub Flavored Markdown](https://github.github.com/gfm/): an extended version of Markdown used on GitHub.
 - [Dillinger](https://dillinger.io/): a web-based Markdown editor that lets you preview your Markdown as you type.
